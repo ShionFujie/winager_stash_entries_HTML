@@ -236,3 +236,7 @@ body {
 .no-outline {
     outline: none;
 }
+
+.pointer {
+    cursor: pointer;
+}
