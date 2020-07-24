@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica,
+        Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    -webkit-font-smoothing: antialiased;
+    font-size: 13px;
+}
+
+.font-size-medium {
+    font-size: 16px;
+}
+
+.line-height-medium {
+    line-height: 20px;
+}
+
+.font-weight-medium {
+    font-weight: 400;
+}
+
+.shade-087 {
+    color: #222;
+}
+
+.padding-horizontal-larger {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.padding-left-small {
+    padding-left: 12px;
+}
+
+.padding-left-smaller {
+    padding-left: 8px;
+}
+
+.padding-right-medium {
+    padding-right: 16px;
+}
+
+.padding-right-tiny {
+    padding-left: 4px;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.position-fixed {
+    position: fixed;
+}
+
+.top-left {
+    top: 0;
+    left: 0;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.z-12 {
+    z-index: 12;;
+}
+
+.block {
+    display: block;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.flexbox-centered {
+    align-items: center;
+    justify-content: center;
+}
+
+.flexbox-align-stretch {
+    align-items: stretch;
+}
+
+.flexbox-align-center {
+    align-items: center;
+}
+
+.flexbox-grow-1 {
+    flex-grow: 1;
+}
+
+.box-shadow {
+    box-shadow: rgba(29, 17, 17, 0.15) 0px 5px 12px;
+}
+
+.radius-small {
+    border-radius: 4px;
+}
+
+.radius-large {
+    border-radius: 8px;
+}
+
+.border-width-normal {
+    border-width: 1px;
+}
+
+.no-border {
+    border: 0;
+}
+
+.border-solid {
+    border-style: solid;
+}
+
+.border-shade-100 {
+    border-color: #fff;
+}
+
+.overflow-ellipsis {
+    text-overflow: ellipsis;
+}
+
+.no-outline {
+    outline: none;
+}
