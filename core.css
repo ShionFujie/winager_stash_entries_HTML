@@ -125,6 +125,10 @@ body {
     padding-bottom: 8px;
 }
 
+.padding-bottom-medium {
+    padding-bottom: 16px;
+}
+
 .position-absolute {
     position: absolute;
 }
@@ -204,12 +208,21 @@ body {
     border-width: 1px;
 }
 
+.border-top-normal {
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
 .no-border {
     border: 0;
 }
 
 .border-solid {
     border-style: solid;
+}
+
+.border-shade-87 {
+    border-color: #DDD;
 }
 
 .border-shade-100 {
