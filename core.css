@@ -80,6 +80,14 @@ body {
     display: flex;
 }
 
+.flexbox-direction-row {
+    flex-direction: row;
+}
+
+.flexbox-direction-column {
+    flex-direction: column
+}
+
 .flexbox-centered {
     align-items: center;
     justify-content: center;
