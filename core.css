@@ -22,8 +22,16 @@ body {
     font-size: 20px;
 }
 
+.font-size-huge {
+    font-size: 26px;
+}
+
 .line-height-medium {
     line-height: 20px;
+}
+
+.line-height-huge {
+    line-height: 30px;
 }
 
 .font-weight-medium {
@@ -73,6 +81,26 @@ body {
     padding-top: 8px;
 }
 
+.padding-top-medium {
+    padding-top: 16px;
+}
+
+.padding-top-large {
+    padding-top: 20px;
+}
+
+.padding-top-larger {
+    padding-top: 24px;
+}
+
+.padding-top-extra-large {
+    padding-top: 28px;
+}
+
+.padding-top-extra-larger {
+    padding-top: 32px;
+}
+
 .padding-right-medium {
     padding-right: 16px;
 }
@@ -81,6 +109,9 @@ body {
     padding-left: 4px;
 }
 
+.padding-bottom-smaller {
+    padding-bottom: 8px;
+}
 
 .position-absolute {
     position: absolute;
@@ -121,6 +152,10 @@ body {
 
 .flexbox-direction-column {
     flex-direction: column
+}
+
+.flexbox-justify-center {
+    justify-content: center;
 }
 
 .flexbox-centered {
