@@ -50,6 +50,18 @@ body {
     color: #222;
 }
 
+.text-ellipsis {
+    text-overflow: ellipsis;
+}
+
+.white-space-nowrap {
+    white-space: nowrap;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
 .padding-horizontal-larger {
     padding-left: 24px;
     padding-right: 24px;
@@ -135,7 +147,8 @@ body {
 }
 
 .z-12 {
-    z-index: 12;;
+    z-index: 12;
+    ;
 }
 
 .block {
