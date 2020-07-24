@@ -10,8 +10,16 @@ body {
     font-size: 13px;
 }
 
+.font-size-small {
+    font-size: 14px;
+}
+
 .font-size-medium {
     font-size: 16px;
+}
+
+.font-size-larger {
+    font-size: 20px;
 }
 
 .line-height-medium {
@@ -20,6 +28,14 @@ body {
 
 .font-weight-medium {
     font-weight: 400;
+}
+
+.font-weight-bold {
+    font-weight: 700;
+}
+
+.shade-056 {
+    color: #717171;
 }
 
 .shade-087 {
@@ -36,12 +52,25 @@ body {
     padding-bottom: 8px;
 }
 
+.padding-vertical-medium {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
 .padding-left-small {
     padding-left: 12px;
 }
 
 .padding-left-smaller {
     padding-left: 8px;
+}
+
+.padding-top-tiny {
+    padding-top: 4px;
+}
+
+.padding-top-smaller {
+    padding-top: 8px;
 }
 
 .padding-right-medium {
@@ -51,6 +80,7 @@ body {
 .padding-right-tiny {
     padding-left: 4px;
 }
+
 
 .position-absolute {
     position: absolute;
