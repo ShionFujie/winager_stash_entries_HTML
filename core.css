@@ -50,6 +50,15 @@ body {
     color: #222;
 }
 
+.primary {
+    color: #1a73e8;
+}
+
+.border-color-primary {
+    border-color: #1a73e8;
+}
+  
+
 .text-ellipsis {
     text-overflow: ellipsis;
 }
@@ -62,6 +71,11 @@ body {
     overflow: hidden;
 }
 
+.padding-horizontal-medium {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
 .padding-horizontal-larger {
     padding-left: 24px;
     padding-right: 24px;
@@ -70,6 +84,11 @@ body {
 .padding-vertical-smaller {
     padding-top: 8px;
     padding-bottom: 8px;
+}
+
+.padding-vertical-small {
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
 
 .padding-vertical-medium {
@@ -129,6 +148,14 @@ body {
     padding-bottom: 16px;
 }
 
+.margin-top-larger {
+    margin-top: 24px;
+}
+
+.margin-bottom-medium {
+    margin-bottom: 16px;
+}
+
 .position-absolute {
     position: absolute;
 }
@@ -157,6 +184,10 @@ body {
 
 .block {
     display: block;
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 .flexbox {
@@ -239,4 +270,8 @@ body {
 
 .pointer {
     cursor: pointer;
+}
+
+.underline {
+    text-decoration: underline;
 }
