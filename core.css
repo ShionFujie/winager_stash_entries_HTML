@@ -186,6 +186,10 @@ body {
     display: block;
 }
 
+.inline-block {
+    display: inline-block;
+}
+
 .flexbox {
     display: flex;
 }
