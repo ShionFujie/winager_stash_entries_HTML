@@ -10,6 +10,10 @@ body {
     font-size: 13px;
 }
 
+::selection {
+    background: #b3e5fc;
+}
+
 .font-size-small {
     font-size: 14px;
 }
